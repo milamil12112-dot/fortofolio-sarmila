@@ -1,60 +1,89 @@
-
 # PERSONAL WEBSITE PORTOFOLIO SARMILA
 
 ## 1. Deskripsi Proyek
-Personal Website Portofolio Sarmila merupakan website pribadi yang dibuat untuk memperkenalkan identitas, latar belakang pendidikan, keterampilan, dan proyek yang pernah dikerjakan.
 
-Website ini dikembangkan menggunakan React JS sebagai pemenuhan tugas Ujian Tengah Semester (UTS) mata kuliah Pemrograman Berbasis Framework.
+Personal Website Portofolio Sarmila merupakan website pribadi yang dibuat untuk memperkenalkan identitas diri, latar belakang pendidikan, keterampilan, dan proyek yang pernah dikerjakan.
+
+Website ini dikembangkan menggunakan React JS sebagai penerapan pembelajaran mata kuliah Pemrograman Berbasis Framework dalam memenuhi tugas Ujian Tengah Semester (UTS).
 
 ## 2. Identitas Mahasiswa
-- Nama: Sarmila
-- NIM: 202312080
-- Perguruan Tinggi: Sekolah Tinggi Teknologi Bontang
-- Program Studi: Teknik Informatika
 
-## 3. Fitur Website
-1. Halaman utama (Home).
-2. Informasi profil pribadi.
-3. Informasi pendidikan.
-4. Daftar keterampilan (Skills).
-5. Daftar proyek (Projects).
-6. Informasi kontak dan media sosial.
+| Keterangan | Informasi |
+|---|---|
+| Nama | Sarmila |
+| NIM | 202312080 |
+| Perguruan Tinggi | Sekolah Tinggi Teknologi Bontang |
+| Program Studi | Teknik Informatika |
+| Mata Kuliah | Pemrograman Berbasis Framework |
+| Tugas | Ujian Tengah Semester (UTS) |
 
-## 4. Teknologi yang Digunakan
-- React JS
-- JavaScript
+## 3. Tujuan Pembuatan Website
+
+1. Memperkenalkan identitas diri melalui website pribadi.
+2. Menampilkan informasi pendidikan dan keterampilan.
+3. Menampilkan hasil proyek yang pernah dikerjakan.
+4. Menerapkan React JS dalam pengembangan website.
+5. Mengembangkan kemampuan pemrograman berbasis framework.
+
+## 4. Fitur Website
+
+### 4.1 Profil
+Menampilkan identitas dan foto profil Sarmila.
+
+### 4.2 Tentang Saya
+Menampilkan deskripsi singkat mengenai diri dan latar belakang pribadi.
+
+### 4.3 Pendidikan
+Menampilkan informasi riwayat pendidikan.
+
+### 4.4 Keahlian
+Menampilkan keterampilan yang dimiliki, yaitu:
+- Microsoft Office
 - HTML
 - CSS
-- Vite
-- Visual Studio Code
+- React JS
 
-## 5. Cara Instalasi
+### 4.5 Proyek
+Menampilkan hasil proyek yang pernah dikerjakan, salah satunya Sistem Penarikan Uang Nasabah menggunakan Laravel.
 
-Persyaratan:
-- Node.js
-- NPM
-- Visual Studio Code
+### 4.6 Kontak
+Menampilkan informasi kontak berupa email dan media sosial.
 
-Langkah instalasi:
-1. Clone repository GitHub.
-2. Buka folder proyek di Visual Studio Code.
-3. Buka terminal.
-4. Jalankan perintah:
+## 5. Teknologi yang Digunakan
 
-   npm install
+| Teknologi | Kegunaan |
+|---|---|
+| React JS | Membangun antarmuka website |
+| JavaScript | Mengatur logika dan interaksi |
+| HTML | Membuat struktur halaman |
+| CSS | Mengatur tampilan website |
+| Vite | Menjalankan proses pengembangan |
+| NPM | Mengelola paket aplikasi |
+| Visual Studio Code | Editor kode program |
+| GitHub | Menyimpan dan membagikan proyek |
 
-5. Jalankan aplikasi:
+## 6. Struktur Folder Proyek
 
-   npm run dev
-
-6. Buka alamat localhost yang muncul di terminal.
-
-## 6. Dokumentasi Website
-
-
-
-## 7. Link Repository
-https://github.com/milamil12112-dot/fortofolio-sarmila
-
-## 8. Penutup
-Pembuatan website portofolio ini merupakan penerapan pembelajaran React JS dalam pengembangan website pribadi. Website ini diharapkan dapat menjadi media untuk memperkenalkan identitas, keterampilan, dan hasil proyek yang telah dibuat.
+```text
+FORTOFOLIO/
+├── public/
+│   ├── images/
+│   │   ├── foto-saya.png
+│   │   ├── logo kampus.jpg
+│   │   ├── profil.png
+│   │   ├── tentangsaya (2).png
+│   │   ├── pendidikan.png
+│   │   ├── keahlian.png
+│   │   ├── project.png
+│   │   └── contact.png
+│   └── favicon.svg
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
