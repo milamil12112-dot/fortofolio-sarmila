@@ -45,7 +45,6 @@ Menampilkan identitas diri dan foto profil Sarmila.
 ![Profil](public/images/profil.png)
 
 ### 4.2 TentangSaya
-S
 Menampilkan informasi singkat mengenai diri, latar belakang, dan deskripsi pribadi.
 
 ![TentangSaya](public/images/tentangsaya.png)
