@@ -48,11 +48,11 @@ Menampilkan identitas diri dan foto profil Sarmila.
 
 ![Profil](public/images/profil.png)
 
-### 4.2 Tentang Saya
-
+### 4.2 TentangSaya
+S
 Menampilkan informasi singkat mengenai diri, latar belakang, dan deskripsi pribadi.
 
-![Tentang Saya](public/images/tentangsaya.png)
+![TentangSaya](public/images/tentangsaya.png)
 
 ### 4.3 Pendidikan
 
@@ -197,3 +197,4 @@ Pembuatan Personal Website Portofolio Sarmila merupakan salah satu bentuk penera
 Melalui proyek ini, mahasiswa dapat memahami proses pembuatan website menggunakan React JS, mulai dari penyusunan komponen, pengaturan tampilan, pengelolaan gambar, hingga publikasi source code melalui GitHub.
 
 Website ini diharapkan dapat menjadi media untuk memperkenalkan identitas, keterampilan, riwayat pendidikan, dan hasil proyek yang telah dikerjakan.
+S
