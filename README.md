@@ -51,7 +51,7 @@ Langkah instalasi:
 
 ## 6. Dokumentasi Website
 
-Screenshot halaman website akan ditampilkan pada bagian ini.
+
 
 ## 7. Link Repository
 https://github.com/milamil12112-dot/fortofolio-sarmila
