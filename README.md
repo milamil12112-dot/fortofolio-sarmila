@@ -5,10 +5,6 @@
 
 Personal Website Portofolio Sarmila merupakan website pribadi yang dibuat untuk memperkenalkan identitas, latar belakang pendidikan, keterampilan, dan proyek yang pernah dikerjakan.
 
-Website ini dikembangkan menggunakan React JS sebagai pemenuhan tugas Ujian Tengah Semester (UTS) mata kuliah Pemrograman Berbasis Framework.
-
-Website portofolio ini dirancang dengan tampilan yang sederhana, menarik, dan responsif sehingga dapat diakses melalui komputer maupun perangkat mobile.
-
 ---
 
 ## 2. Identitas Mahasiswa
